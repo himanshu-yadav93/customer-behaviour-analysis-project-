@@ -294,7 +294,4 @@ This project demonstrates practical skills in:
 * Dashboard Development
 * Data-Driven Decision Making
 
----
 
-
-* Battery Management Systems
