@@ -296,16 +296,5 @@ This project demonstrates practical skills in:
 
 ---
 
-## 👨‍💻 Author
 
-**Himanshu Yadav**
-
-B.Tech Electrical Engineering, NIT Patna
-
-Interested in:
-
-* Data Analytics
-* Business Intelligence
-* Machine Learning
-* Electric Vehicles
 * Battery Management Systems
